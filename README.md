@@ -58,5 +58,3 @@ These visuals are shown in the uploaded dashboard.
 * Data Visualization
 * Dashboard Design
 * Interactive Reporting
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
