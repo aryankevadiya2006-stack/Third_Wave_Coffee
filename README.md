@@ -47,13 +47,6 @@ These visuals are shown in the uploaded dashboard.
 * Analyze customer purchasing behavior by weekday and time of day.
 * Track business performance using interactive filters.
 
-## 📷 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-```text
-dashboard-preview.png
-```
 
 ## 🚀 Skills Demonstrated
 
